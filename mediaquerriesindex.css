@@ -1,0 +1,20 @@
+body{
+    background-color: bisque;
+    color: brown;
+}
+
+h1{
+
+    color: blue;
+}
+
+@media(max-width:800px)
+
+{
+    body {
+        background-image: url(./asset/Woodwinds\ Clinic\ crop\ 594\ 450.jpg);
+        background-repeat: no-repeat;
+        font-size: 18px;
+    }
+    
+}
